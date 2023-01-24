@@ -15,5 +15,6 @@ public class EvenOdd {
         }
         else
             System.out.println("Please enter a number greater than 0.");
+            System.out.println("Bye");
     }
 }
